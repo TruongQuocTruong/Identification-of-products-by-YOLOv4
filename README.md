@@ -17,6 +17,12 @@ It is a final project on my team's Machine Learning - CS114 subject.
 1. [Link full dataset](https://drive.google.com/drive/folders/11vtFj8XwYEid7NfQLoJoZjphAVQ5_g1c?usp=sharing)                   
 2. [Link part dataset](https://drive.google.com/drive/folders/1P0JGGTTeVDZ56WXyV0eU9AAP9mxNUkxI?usp=sharing)
 
+
+
+### HOW TO RUN
+
+After cloning the source on Github, we must download file weights (received after training) in the folder [backup](https://drive.google.com/drive/folders/1v7e5PaUnItKfTO-NC_uO8sYX_QveFQMb?usp=sharing). Then, upload into the root folder includes all file.
+
 ----
 
 # Yolo v4, v3 and v2 for Windows and Linux
