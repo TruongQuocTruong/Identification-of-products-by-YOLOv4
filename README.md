@@ -24,7 +24,7 @@ It is a final project on my team's Machine Learning - CS114 subject.
 After cloning the source on Github, we must download file weights (received after training) in the folder [backup](https://drive.google.com/drive/folders/1v7e5PaUnItKfTO-NC_uO8sYX_QveFQMb?usp=sharing). Then, upload into the root folder includes all file.
 
 ### DEMO
-[](https://github.com/TruongQuocTruong/Identification-of-products-by-YOLOv4/blob/5aa597ebfa3366bc98f6296878f36601e1f321b4/predictions.jpg?raw=true)
+[](https://github.com/TruongQuocTruong/Identification-of-products-by-YOLOv4/blob/5aa597ebfa3366bc98f6296878f36601e1f321b4/predictions.jpg)
 
 
 
