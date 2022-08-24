@@ -23,6 +23,8 @@ It is a final project on my team's Machine Learning - CS114 subject.
 
 After cloning the source on Github, we must download file weights (received after training) in the folder [backup](https://drive.google.com/drive/folders/1v7e5PaUnItKfTO-NC_uO8sYX_QveFQMb?usp=sharing). Then, upload into the root folder includes all file.
 
+And get link folder [data](https://drive.google.com/drive/folders/1ywxwNlvmUWgbU7IjzD0aCObPp0LtzSiE?usp=sharing) in case you want to re-training
+
 ### DEMO
 ![Picture1](https://user-images.githubusercontent.com/59196676/186382413-e933bc90-4cd4-4ddf-8754-8727ce5678de.jpg)
 ![Picture5](https://user-images.githubusercontent.com/59196676/186383053-b42265cd-5f8d-4aa3-990c-19c7024fe486.jpg)
