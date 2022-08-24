@@ -14,8 +14,7 @@ It is a final project on my team's Machine Learning - CS114 subject.
   
 + The dataset for training and testing is about 12,000 photos and 12 videos, including 167 classes.
 
-[Link full dataset](https://drive.google.com/drive/folders/11vtFj8XwYEid7NfQLoJoZjphAVQ5_g1c?usp=sharing)
-[Link part dataset](https://drive.google.com/drive/folders/1P0JGGTTeVDZ56WXyV0eU9AAP9mxNUkxI?usp=sharing)
+[Link full dataset](https://drive.google.com/drive/folders/11vtFj8XwYEid7NfQLoJoZjphAVQ5_g1c?usp=sharing)                   [Link part dataset](https://drive.google.com/drive/folders/1P0JGGTTeVDZ56WXyV0eU9AAP9mxNUkxI?usp=sharing)
 
 ----
 
