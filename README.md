@@ -20,6 +20,7 @@ It is a final project on my team's Machine Learning - CS114 subject.
 
 
 ### HOW TO RUN
+#### This repos is missing 02 folder is "backup" and "data". So,
 
 After cloning the source on Github, we must download file weights (received after training) in the folder [backup](https://drive.google.com/drive/folders/1v7e5PaUnItKfTO-NC_uO8sYX_QveFQMb?usp=sharing). Then, upload into the root folder includes all file.
 
