@@ -1,3 +1,9 @@
+# IDENTIFICATION OF RETAIL PRODUCTS BY YOLOv4 
+
+## Identify products for retail at supermarkets, and convenience stores with a custom dataset by YOLOv4 
+
+----
+
 # Yolo v4, v3 and v2 for Windows and Linux
 
 ## (neural networks for object detection)
