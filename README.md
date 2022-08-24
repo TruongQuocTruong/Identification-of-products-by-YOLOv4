@@ -2,6 +2,21 @@
 
 ## Identify products for retail at supermarkets, and convenience stores with a custom dataset by YOLOv4 
 
+### Overview
+It is a final project on my team's Machine Learning - CS114 subject. 
+
+- Input: Image or video containing the products of the buyer. The camera distance from the product is 20cm to 30cm in good lighting conditions; the product must occupy more than 50% of the frame.
+
+- Output: The input image or video will display each product's information.
+
+### Dataset
+  + The dataset is multi-angle images of products sold in supermarkets and convenience stores.
+  
+  + The dataset for training and testing is about 12,000 photos and 12 videos, including 167 classes.
+
+- [Link full dataset](https://drive.google.com/drive/folders/11vtFj8XwYEid7NfQLoJoZjphAVQ5_g1c?usp=sharing)
+- [Link part dataset](https://drive.google.com/drive/folders/1P0JGGTTeVDZ56WXyV0eU9AAP9mxNUkxI?usp=sharing)
+
 ----
 
 # Yolo v4, v3 and v2 for Windows and Linux
